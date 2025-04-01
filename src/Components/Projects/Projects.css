@@ -1,0 +1,38 @@
+
+#projects{
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+    flex-direction: column;
+    gap:30px;
+
+}
+
+
+
+.slider{
+    width: 100%;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    gap:20px;
+    overflow-x: auto;
+    overflow-y: hidden;
+    scrollbar-width: none;
+    padding: 20px;
+}
+
+#h1{
+    font-size: 4vmax;
+    background: linear-gradient(to right, rgb(239, 84, 96),white);
+    background-clip: text;
+    color: transparent;
+}
+
+
+
+
