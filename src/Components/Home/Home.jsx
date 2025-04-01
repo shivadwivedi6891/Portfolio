@@ -14,31 +14,31 @@ function Home()  {
     tl1.from(".line1", {
 
       y: 100,
-      duration: 1,
+      duration: 0.3,
       opacity: 0
     })
     tl1.from(".line2", {
 
       y: 100,
-      duration: 1,
+      duration: 0.3,
       opacity:0
       
     })
     tl1.from(".line3", {
 
       y: 100,
-      duration: 1,
+      duration: 0.3,
       opacity: 0
     })
 
     tl1.from(".left-home",{
       x: 100,
-      duration: 1,
+      duration: 0.3,
       opacity: 0
     })
     tl1.from(".right-home",{
       x: 100,
-      duration: 1,
+      duration: 0.3,
       opacity: 0
     })
     

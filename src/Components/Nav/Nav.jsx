@@ -21,7 +21,7 @@ function Nav() {
         tl.from("nav h1",{
 
             y:-100,
-            duration:1,
+            duration:0.3,
             opacity:0
         })
 
