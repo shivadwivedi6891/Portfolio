@@ -26,9 +26,9 @@
     padding: 20px;
 }
 
-#h1{
-    font-size: 4vmax;
-    background: linear-gradient(to right, rgb(239, 84, 96),white);
+#projects h1{
+    font-size: 2vmax;
+    background: linear-gradient(to right, rgb(179, 80, 119),white);
     background-clip: text;
     color: transparent;
 }
